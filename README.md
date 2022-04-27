@@ -1,17 +1,19 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+20 March 2022 change3
 
 ### Project Title
-Replace the Project Title
+github-project change3
 
 ### Description
-Describe what your project is about and what it does
+git command practice change3
 
 ### Files used
-Include the files used
+123 change3
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+abc change3
+
+Additional change3
 
