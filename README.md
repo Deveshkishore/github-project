@@ -15,7 +15,4 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-abc change3
-
-Additional change3
-
+https://github.com/Deveshkishore/github-project
