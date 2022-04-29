@@ -4,7 +4,7 @@
 20 March 2022
 
 ### Project Title
-github-project change3
+Bikeshare big data analysis of three cities in America
 
 ### Description
 git command practice change3
