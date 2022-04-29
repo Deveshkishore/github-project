@@ -7,7 +7,7 @@
 Bikeshare big data analysis of three cities in America
 
 ### Description
-git command practice change3
+It can provide bikeshare data statistics of Chicago, New York and Washington.
 
 ### Files used
 123 change3
