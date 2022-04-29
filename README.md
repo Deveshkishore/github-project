@@ -10,7 +10,9 @@ Bikeshare big data analysis of three cities in America
 It can provide bikeshare data statistics of Chicago, New York and Washington.
 
 ### Files used
-123 change3
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
 abc change3
